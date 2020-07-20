@@ -1,0 +1,16 @@
+PODS:
+  - INTULocationManager (4.4.0)
+
+DEPENDENCIES:
+  - INTULocationManager
+
+SPEC REPOS:
+  trunk:
+    - INTULocationManager
+
+SPEC CHECKSUMS:
+  INTULocationManager: b5a0422782f0b87af0b8db14e0826fb38dbecd19
+
+PODFILE CHECKSUM: e176f3a7ecbd2d7b2f5d4b68face8d9166607e8f
+
+COCOAPODS: 1.9.2
